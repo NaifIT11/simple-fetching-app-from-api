@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "tailwind css form",
-  description: "i love it tailwind css",
+  title: "simple fetching app",
+  description: "",
 };
 
 export default function RootLayout({ children }) {
